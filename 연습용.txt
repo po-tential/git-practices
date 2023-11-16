@@ -1,6 +1,4 @@
-PR 연습
-=======
-전예준이썼음2
+sojeong test test
 
 
-김종혁이 # 연습
+jonghyeok test test
