@@ -19,7 +19,7 @@ function Table() {
               <i className="fa-solid fa-magnifying-glass"></i>
               조회결과
             </div>
-            <div className="card-body">
+            <div className="card-body card-body-scrollable">
               <table ref={dataTableRef} id="datatablesSimple">
                 <thead>
                   <tr>
