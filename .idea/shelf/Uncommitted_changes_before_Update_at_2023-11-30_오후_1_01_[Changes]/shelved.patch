@@ -1,0 +1,14 @@
+Index: yejun.txt
+===================================================================
+diff --git a/yejun.txt b/yejun.txt
+deleted file mode 100644
+--- a/yejun.txt	(revision 9cbfb6295d17dd6e3ead59d652f73c6c1d376739)
++++ /dev/null	(revision 9cbfb6295d17dd6e3ead59d652f73c6c1d376739)
+@@ -1,6 +0,0 @@
+-하하핫
+-
+-
+-
+-
+-앗 실수
+\ No newline at end of file
